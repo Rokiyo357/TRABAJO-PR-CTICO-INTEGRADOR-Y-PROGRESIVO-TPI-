@@ -22,10 +22,7 @@ El **Sistema de Gestión de Pedidos y Ruteo de Reparto (SGPRR)** es una solució
 
 ---
 
-## 🔗 Enlaces Rápidos del Proyecto
 
-* **Repositorio Público GitHub:** [https://github.com/mcadenini/sgprr-cimes](https://github.com/mcadenini/sgprr-cimes)
-* **Tablero de Gestión Ágil (GitHub Projects / Jira):** [https://github.com/users/mcadenini/projects/1](https://github.com/users/mcadenini/projects/1)
 
 ---
 
